@@ -17,9 +17,13 @@ Made the code device compatible and it should work in all kind of devices with v
 Included the readme file
 Link for the website is https://npriyak.github.io/index.html
 Used customized bootstrap components like Nav, Card, Page title, buttons, badge
-1) mouseParallax
-2)badge - index page
+1) mouseParallax - home page images move when mouse is moved
+2) badge - index page
 3) progressWrapper - for skills
-4) buttons
+4) buttons - for various buttons used in the page
 5) cards- for blogs
-6)
+6) box shadows - blogs and portfolio
+7) navbar-toggler - for header section
+8) icons- facebook link
+9) slick slider- for testimonials.
+10) alert - in contact section.
