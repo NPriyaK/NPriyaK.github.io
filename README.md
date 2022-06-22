@@ -16,4 +16,4 @@ Hosted the website on the GITHUB and it is accesssible
 Made the code device compatible and it should work in all kind of devices with varied sizes
 Included the readme file
 Link for the website is https://npriyak.github.io/index.html
-Used customized bootstrap components like Nav, Card, Page headers, buttons, alerts, jumbotron, badge
+Used customized bootstrap components like Nav, Card, Page title, buttons, badge
